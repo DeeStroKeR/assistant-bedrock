@@ -68,3 +68,8 @@
 body {
   overflow: hidden;
 }
+
+div.bg-background.box-border.h-full {
+  overflow: auto;
+}
+
